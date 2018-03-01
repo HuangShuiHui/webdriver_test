@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="326089bd-b04b-4f20-b510-ae201aa5772d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/demo/operate_element.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html/operate_element.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,23 +15,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="level_locate.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/level_locate.html">
+      <file leaf-file-name="level_locate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/level_locate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="48" />
+            <state relative-caret-position="208">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="e#45#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="operate_element.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/operate_element.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="17" column="88" lean-forward="false" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="88" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="level_locate.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo/level_locate.py">
+      <file leaf-file-name="operate_element.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/operate_element.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
               <folding>
-                <element signature="e#45#75#0" expanded="true" />
+                <element signature="e#46#76#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,8 +89,10 @@
         <option value="$PROJECT_DIR$/html/checkbox.html" />
         <option value="$PROJECT_DIR$/demo/simple_locate.py" />
         <option value="$PROJECT_DIR$/demo/find_elements.py" />
-        <option value="$PROJECT_DIR$/html/level_locate.html" />
         <option value="$PROJECT_DIR$/demo/level_locate.py" />
+        <option value="$PROJECT_DIR$/html/level_locate.html" />
+        <option value="$PROJECT_DIR$/html/operate_element.html" />
+        <option value="$PROJECT_DIR$/demo/operate_element.py" />
       </list>
     </option>
   </component>
@@ -156,25 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.level_locate">
-    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="webdriver_test" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.operate_element">
     <configuration name="level_locate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,6 +186,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="webdriver_test" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/level_locate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="operate_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="webdriver_test" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/operate_element.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,19 +264,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.index" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.simple_locate" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pathUtil" />
-      <item index="4" class="java.lang.String" itemvalue="Python.level_locate" />
+      <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.simple_locate" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pathUtil" />
+      <item index="3" class="java.lang.String" itemvalue="Python.level_locate" />
+      <item index="4" class="java.lang.String" itemvalue="Python.operate_element" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.level_locate" />
-        <item index="1" class="java.lang.String" itemvalue="Python.simple_locate" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pathUtil" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.index" />
+        <item index="0" class="java.lang.String" itemvalue="Python.operate_element" />
+        <item index="1" class="java.lang.String" itemvalue="Python.level_locate" />
+        <item index="2" class="java.lang.String" itemvalue="Python.simple_locate" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pathUtil" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -320,14 +336,23 @@
       <option name="project" value="LOCAL" />
       <updated>1519876708023</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="层级定位练习">
+      <created>1519876741240</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1519876741240</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17261904" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17261904" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29761904" sideWeight="0.5029762" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.49702382" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -350,9 +375,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="定位一组对象" />
-    <MESSAGE value="层级定位练习" />
     <MESSAGE value="层级定位练习-修改了导入bootstrap相关资源文件的代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="层级定位练习-修改了导入bootstrap相关资源文件的代码" />
+    <MESSAGE value="层级定位练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="层级定位练习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -374,7 +399,7 @@
         <state relative-caret-position="76">
           <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding>
-            <element signature="e#46#81#0" expanded="true" />
+            <element signature="e#46#81#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -384,7 +409,7 @@
         <state relative-caret-position="874">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
-            <element signature="e#46#76#0" expanded="true" />
+            <element signature="e#46#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -426,7 +451,7 @@
         <state relative-caret-position="874">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
-            <element signature="e#46#76#0" expanded="true" />
+            <element signature="e#46#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -436,7 +461,7 @@
         <state relative-caret-position="57">
           <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding>
-            <element signature="e#46#81#0" expanded="true" />
+            <element signature="e#46#81#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -454,7 +479,7 @@
         <state relative-caret-position="57">
           <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
           <folding>
-            <element signature="e#46#76#0" expanded="true" />
+            <element signature="e#46#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -472,7 +497,7 @@
         <state relative-caret-position="874">
           <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
-            <element signature="e#46#76#0" expanded="true" />
+            <element signature="e#46#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -498,7 +523,7 @@
         <state relative-caret-position="893">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
-            <element signature="e#46#76#0" expanded="true" />
+            <element signature="e#46#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -607,7 +632,7 @@
         <state relative-caret-position="57">
           <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding>
-            <element signature="e#46#81#0" expanded="true" />
+            <element signature="e#46#81#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -647,7 +672,7 @@
         <state relative-caret-position="874">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
-            <element signature="e#46#76#0" expanded="true" />
+            <element signature="e#46#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -665,25 +690,43 @@
         <state relative-caret-position="19">
           <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
           <folding>
-            <element signature="e#46#76#0" expanded="true" />
+            <element signature="e#46#76#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/level_locate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="48" />
+        <state relative-caret-position="285">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/level_locate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
+        <state relative-caret-position="208">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="e#45#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/operate_element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="17" column="88" lean-forward="false" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/operate_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#46#76#0" expanded="true" />
           </folding>
         </state>
       </provider>
